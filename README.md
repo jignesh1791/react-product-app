@@ -2,4 +2,4 @@
 
 to run the application run below command
 
-nom run start
+npm run start
